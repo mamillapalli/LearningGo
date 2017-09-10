@@ -1,5 +1,6 @@
 package TestPackage
-func First()
-{
-  second()
+
+func First() {
+
+	second()
 }
